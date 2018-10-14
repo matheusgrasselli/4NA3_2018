@@ -1,6 +1,6 @@
 ## 4NA4 2018 Page
 
-[Course Outline](https://github.com/matheusgrasselli/4NA3_2018/outline_4NA3-18.pdf)
+[Course Outline](https://github.com/matheusgrasselli/4NA3_2018/blob/master/outline_4NA3-18.pdf)
 
 You can use the [editor on GitHub](https://github.com/matheusgrasselli/test_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
